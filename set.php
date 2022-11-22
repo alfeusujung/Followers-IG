@@ -13,7 +13,7 @@ $youser="peusgameandfoodofficial";
 
 # Username akun tumbal
 # Enter the username of the account that was sacrificed
-$t_user="hatihati1241";
+$t_user="peusjahat";
 
 # Passwoard/sandi akun tumbal
 # enter the password of the account that was sacrificed
